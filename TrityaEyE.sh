@@ -2,7 +2,7 @@
 
 # ============================================================
 #   TrityaEyE - Vulnerability Scanning Suite
-#   Created by Yashaswi & Kritika
+#   Created by Yashaswi 
 #   Version: 2.0
 #   License: MIT
 # ============================================================
