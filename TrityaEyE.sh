@@ -50,7 +50,7 @@ display_banner() {
     echo -e "${RESET}"
     echo -e "${DIM}${WHITE}         ┌──────────────────────────────────────────────────────┐${RESET}"
     echo -e "${DIM}${WHITE}         │  ${YELLOW}Vulnerability Scanning Suite ${DIM}${WHITE}│ ${GREEN}v${VERSION}${DIM}${WHITE}               │${RESET}"
-    echo -e "${DIM}${WHITE}         │  ${CYAN}Created by Yashaswi & Kritika${DIM}${WHITE}                      │${RESET}"
+    echo -e "${DIM}${WHITE}         │  ${CYAN}Created by Yashaswi ${DIM}${WHITE}           │${RESET}"
     echo -e "${DIM}${WHITE}         │  ${RED}⚠  For educational and authorized use only ⚠${DIM}${WHITE}      │${RESET}"
     echo -e "${DIM}${WHITE}         └──────────────────────────────────────────────────────┘${RESET}"
     echo ""
