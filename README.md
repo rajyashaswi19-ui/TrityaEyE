@@ -11,7 +11,7 @@
 
 **TrityaEyE** — Vulnerability Scanning Suite
 
-*Created by Yashaswi & Kritika*
+*Created by Yashaswi *
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Kali-blue?style=for-the-badge&logo=linux&logoColor=white)
