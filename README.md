@@ -181,7 +181,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👨‍💻 Authors
 
-- **Yashaswi** — [GitHub](https://github.com/yourusername)
+- **Yashaswi** — [GitHub](https://github.com/rajyashaswi19-ui)
 
 ---
 
